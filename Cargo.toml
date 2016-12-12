@@ -1,0 +1,8 @@
+[package]
+name = "serious_hashes"
+version = "0.1.0"
+authors = ["Jesper Axelsson <jesperaxe@gmail.com>"]
+
+[dev-dependencies]
+time = "0.1.*"
+rand = "0.3"

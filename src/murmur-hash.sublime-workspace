@@ -1,0 +1,1130 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to_str",
+				"to_string"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"on_get",
+				"on_getdispinfo_details_list Function (main.rs) : unsafe fn on_getdispinfo_details_list(nmlv: &mut NMLVDISPINFOW) -> LRESULT            "
+			],
+			[
+				"he",
+				"height          Let (main.rs) : let height = cy-300\\                                                                "
+			],
+			[
+				"IDC_",
+				"IDC_DETAILS_LISTVIEW Const (main.rs) : const IDC_DETAILS_LISTVIEW: HMENU = 102 as HMENU\\"
+			],
+			[
+				"hwd",
+				"hwnd_from"
+			],
+			[
+				"update",
+				"update_ix_list   Function (main.rs) : fn update_ix_list()                                                                   "
+			],
+			[
+				"to_",
+				"to_string            Function (main.rs) : fn to_string(str: &Vec<u16>) -> String                                                   "
+			],
+			[
+				"sh",
+				"shrink_to_fit"
+			],
+			[
+				"list",
+				"list_write                     Let (main.rs) : let mut list_write = STRING_CACHE.write().unwrap()\\                                     "
+			],
+			[
+				"as",
+				"as_ptr"
+			],
+			[
+				"heap",
+				"heapsize      Module (lib.rs) : C:\\home\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\heapsize-0.3.7\\src\\lib.rs   "
+			],
+			[
+				"lst",
+				"lstrcpyW"
+			],
+			[
+				"Wide",
+				"WideCString Struct (widecstring.rs) : pub struct WideCString"
+			],
+			[
+				"item",
+				"item_ptr              Let (main.rs) : let item_ptr = kernel32::GlobalAlloc(128, item.len() as u64 * 2)\\                      "
+			],
+			[
+				"ptr",
+				"ptr_write                         Let (main.rs) : let mut ptr_write = PTR_CACHE.write().unwrap()\\                                              "
+			],
+			[
+				"cc",
+				"cchTextMax"
+			],
+			[
+				"LIST_",
+				"LIST_HWND"
+			],
+			[
+				"for",
+				"format\tformat!(…)"
+			],
+			[
+				"e",
+				"enumerate"
+			],
+			[
+				"model",
+				"model_clone   Let (main.rs) : let model_clone = model.clone()\\                                                                                         "
+			],
+			[
+				"Lens",
+				"Lens2     Struct (lens.rs) : pub struct Lens2(ObjectRef, PhantomData<ffi::GtkTreeModel>, u64)\\"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"Cus",
+				"CustomRecord            Struct (lens.rs) : struct CustomRecord      "
+			],
+			[
+				"true",
+				"TRUE"
+			],
+			[
+				"nu",
+				"null_mut Function (ptr.rs) : pub const fn null_mut<T>() -> *mut T"
+			],
+			[
+				"from",
+				"from_raw_parts Function (vec.rs) : pub unsafe fn from_raw_parts(ptr: *mut T, length: usize, capacity: usize) -> Vec<T>"
+			],
+			[
+				"as_",
+				"as_str"
+			],
+			[
+				"un",
+				"unwrap"
+			],
+			[
+				"GType",
+				"GTypeInfo           Struct (lib.rs) : pub struct GTypeInfo                                            "
+			],
+			[
+				"GTy",
+				"GTypeInfo           Struct (lib.rs) : pub struct GTypeInfo                                            "
+			],
+			[
+				"cus",
+				"custom_list_type"
+			],
+			[
+				"custom",
+				"custom_list_type           Let (lens.rs) : let custom_list_type: GType\\                                                                                                                  "
+			],
+			[
+				"mem",
+				"mem_size               Let (lens.rs) : let mut mem_size: Vec<usize> = Vec::new()\\      "
+			],
+			[
+				"p",
+				"ptr"
+			],
+			[
+				"Obj",
+				"ObjectRef"
+			],
+			[
+				"ToV",
+				"ToValue     Trait (value.rs) : pub trait ToValue                                      "
+			],
+			[
+				"glb",
+				"glib            Module (lib.rs) : C:\\home\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\glib-0.1.0\\src\\lib.rs   "
+			],
+			[
+				"sear",
+				"search_string    StructField (lens.rs) : String                                            "
+			],
+			[
+				"tree",
+				"tree         Let (main.rs) : let tree = create_and_setup_view()\\        "
+			],
+			[
+				"LPLV",
+				"LPLVITEMW"
+			],
+			[
+				"LPM",
+				"LPNMLVFINDITEMW Type (commctrl.rs) : pub type LPNMLVFINDITEMW = *mut NMLVFINDITEMW\\"
+			],
+			[
+				"LPNM",
+				"LPNMHDR            Type (winuser.rs) : pub type LPNMHDR = *mut NMHDR\\                      "
+			],
+			[
+				"is",
+				"is_safe              Let (main.rs) : let mut is_safe = false\\                                                 "
+			],
+			[
+				"to_strin",
+				"to_string         Function (widecstring.rs) : pub fn to_string(&self) -> Result<String, std::string::FromUtf16Error>"
+			],
+			[
+				"from_",
+				"from_ptr_str                Function (widecstring.rs) : pub unsafe fn from_ptr_str(p: *const u16) -> WideCString                                          "
+			],
+			[
+				"LP",
+				"LPWSTR             Type (winnt.rs) : pub type LPWSTR = *mut WCHAR\\                 "
+			],
+			[
+				"to",
+				"to_wstring      Function (main.rs) : fn to_wstring(str: &str) -> Vec<u16>                                          "
+			],
+			[
+				"prn",
+				"println\tprintln!(…)"
+			],
+			[
+				"LPNBL",
+				"LPNMLVDISPINFOW   Type (commctrl.rs) : pub type LPNMLVDISPINFOW = *mut NMLVDISPINFOW\\      "
+			],
+			[
+				"decode_utf",
+				"decode_utf16       Function (char.rs) : pub fn decode_utf16<I: IntoIterator<Item = u16>>(iter: I) -> DecodeUtf16<I::IntoIter>"
+			],
+			[
+				"WM_GETT",
+				"WM_GETTEXT                                                                             Const (winuser.rs) : pub const WM_GETTEXT: ::UINT = 0x000D\\                                                                                                                                                                                                                                                                             "
+			],
+			[
+				"fl",
+				"flags      FnArg (main.rs) : flags                            "
+			],
+			[
+				"sen",
+				"SendMessageW"
+			],
+			[
+				"move",
+				"MoveWindow"
+			],
+			[
+				"text",
+				"text_column          Let (main.rs) : let text_column = to_wstring(text)\\                                           "
+			],
+			[
+				"crea",
+				"create_column    Function (main.rs) : fn create_column(list_hwnd: HWND, text: &str, sub_item: i32)                         "
+			],
+			[
+				"tex",
+				"text_row             Let (main.rs) : let text_row = to_wstring(\"wokring?\")\\                                        "
+			],
+			[
+				"LPW",
+				"LPWSTR             Type (winnt.rs) : pub type LPWSTR = *mut WCHAR\\              "
+			],
+			[
+				"LPSTR_T",
+				"LPSTR_TEXTCALLBACKW                                                                   Const (commctrl.rs) : pub const LPSTR_TEXTCALLBACKW: ::LPWSTR = (0 - 1) as ::LPWSTR\\                                                                                                                                                                                                                                                     "
+			],
+			[
+				"LPWSTR",
+				"LPWSTR                                                                                    Type (winnt.rs) : pub type LPWSTR = *mut WCHAR\\                                                                                                                                                                                                                                                                                      "
+			],
+			[
+				"LVS_RE",
+				"LVS_REPORT     Const (commctrl.rs) : pub const LVS_REPORT: ::DWORD = 0x0001\\    "
+			],
+			[
+				"WS_",
+				"WS_VISIBLE          Const (winuser.rs) : pub const WS_VISIBLE: ::DWORD = 0x10000000\\                                                                                        "
+			],
+			[
+				"LVM_INSERTC",
+				"LVM_INSERTCOLUMNW Const (commctrl.rs) : pub const LVM_INSERTCOLUMNW: ::UINT = LVM_FIRST + 97\\"
+			],
+			[
+				"Col",
+				"column"
+			],
+			[
+				"setup",
+				"test_setup_list"
+			],
+			[
+				"LVM_IN",
+				"LVM_INSERTITEMW                                                                       Const (commctrl.rs) : pub const LVM_INSERTITEMW: ::UINT = LVM_FIRST + 77\\                                                                                                                                                                                                                                                                "
+			],
+			[
+				"LVM_INSER",
+				"LVM_INSERTITEMW       Const (commctrl.rs) : pub const LVM_INSERTITEMW: ::UINT = LVM_FIRST + 77\\       "
+			],
+			[
+				"text_",
+				"text_row        Let (main.rs) : let text_row = to_wstring(\"wokring?\")\\                                        "
+			],
+			[
+				"LVITE",
+				"LV_ITEMW                                                                               Type (commctrl.rs) : pub type LV_ITEMW = LVITEMW\\                                                                                                                                                                                                                                                                                       "
+			],
+			[
+				"LVCF_",
+				"LVCF_TEXT                                                                             Const (commctrl.rs) : pub const LVCF_TEXT: ::UINT = 0x0004\\                                                                                                                                                                                                                                                                              "
+			],
+			[
+				"create",
+				"create_list_view Function (main.rs) : fn create_list_view(hwnd_parent: HWND) -> HWND                                       "
+			],
+			[
+				"comct",
+				"comctl32            Module (lib.rs) : C:\\home\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\comctl32-sys-0.2.0\\src\\lib.rs"
+			],
+			[
+				"hwn",
+				"hwnd          Let (main.rs) : let hwnd = winapi::CreateWindow(WC_LISTVIEW,"
+			],
+			[
+				"SW_",
+				"SW_NORMAL                                                                              Const (winuser.rs) : pub const SW_NORMAL: ::c_int = 1\\                                                                                                                                                                                                                                                                                  "
+			],
+			[
+				"LPSC",
+				"LPCWSTR"
+			],
+			[
+				"null",
+				"null_mut       Function (ptr.rs) : pub const fn null_mut<T>() -> *mut T                   "
+			],
+			[
+				"OsStr",
+				"OsStrExt    Trait (ffi.rs) : pub trait OsStrExt   "
+			],
+			[
+				"OsS",
+				"OsStr                Struct (os_str.rs) : pub struct OsStr                    "
+			],
+			[
+				"sele",
+				"selection    Let (lens.rs) : let selection = self.tree.get_selection()\\                                       "
+			],
+			[
+				"upda",
+				"update_details"
+			],
+			[
+				"trr",
+				"tree_details   StructField (lens.rs) : TreeView                                                "
+			],
+			[
+				"tre",
+				"tree_details   StructField (lens.rs) : TreeView                                                "
+			],
+			[
+				"sea",
+				"search_string  StructField (lens.rs) : String                                       "
+			],
+			[
+				"max",
+				"max_score Let (main.rs) : let mut max_score = 0\\               "
+			],
+			[
+				"need",
+				"needles  Let (main.rs) : let needles = needle.split_whitespace()\\"
+			],
+			[
+				"len",
+				"levenshtein_distance      Function (main.rs) : fn levenshtein_distance(s: &str, t: &str) -> u32        "
+			],
+			[
+				"get_",
+				"get_exe_dir Function (runner.rs) : pub fn get_exe_dir() -> PathBuf                                             "
+			],
+			[
+				"get",
+				"get_selection"
+			],
+			[
+				"skip",
+				"skip_hidden      Function (lib.rs) : pub fn skip_hidden(&mut self, flag: bool) -> &mut ScanDir                                                         "
+			],
+			[
+				"Path",
+				"PathBuf"
+			],
+			[
+				"vec",
+				"Vec"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"glo",
+				"glob_recursive_dirs Let (main.rs) : let glob_recursive_dirs = \"**\\\\*.*\"\\                                          "
+			],
+			[
+				"Dir",
+				"DirEntry   Struct (fs.rs) : pub struct DirEntry(fs_imp::DirEntry)\\"
+			],
+			[
+				"col",
+				"column                     Let (main.rs) : let column = TreeViewColumn::new()\\     "
+			],
+			[
+				"new",
+				"new_model"
+			],
+			[
+				"search_string_",
+				"search_string_clone2 Let (main.rs) : let mut search_string_clone2 = search_string_clone.clone()\\"
+			],
+			[
+				"filter_",
+				"filter_clone Let (main.rs) : let filter_clone = filter.clone()\\                             "
+			],
+			[
+				"model_",
+				"model_clone Let (main.rs) : let model_clone = Rc::new(model)\\   "
+			],
+			[
+				"in",
+				"insert_with_values"
+			],
+			[
+				"Oti",
+				"Orientation Enum (enums.rs) : pub enum Orientation {                              "
+			],
+			[
+				"Window",
+				"WindowPosition    Enum (enums.rs) : pub enum WindowPosition {"
+			],
+			[
+				"TreeView",
+				"TreeViewColumn"
+			],
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"Some",
+				"Something   EnumVariant (part02.rs) : Something(T),                                         "
+			],
+			[
+				"read",
+				"read_vec_f           Function (part02.rs) : fn read_vec_f() -> Vec<f32>        "
+			],
+			[
+				"Som",
+				"Something   EnumVariant (part02.rs) : Something(T),                                         "
+			],
+			[
+				"N",
+				"Nothing EnumVariant (part00.rs) : Nothing     "
+			],
+			[
+				"Number",
+				"NumberOrNothing Enum (part00.rs) : enum NumberOrNothing {"
+			],
+			[
+				"Num",
+				"NumberOrNothing Enum (part00.rs) : enum NumberOrNothing {"
+			],
+			[
+				"pin",
+				"println\tprintln!(…)"
+			],
+			[
+				"node",
+				"node_ref"
+			],
+			[
+				"pop",
+				"pop_front"
+			],
+			[
+				"Into",
+				"IntoIter    Struct (fourth.rs) : pub struct IntoIter<T>(List<T>)\\"
+			],
+			[
+				"Ref",
+				"RefMut  Struct (cell.rs) : pub struct RefMut<'b, T: ?Sized + 'b>"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"IntoI",
+				"IntoIter    Struct (second.rs) : pub struct IntoIter<T>(List<T>)\\"
+			],
+			[
+				"ass",
+				"assert_eq\tassert_eq!(…, …)"
+			],
+			[
+				"re",
+				"replace Function (mem.rs) : pub fn replace<T>(dest: &mut T, mut src: T) -> T"
+			],
+			[
+				"ke",
+				"key_right"
+			],
+			[
+				"key",
+				"key_right"
+			],
+			[
+				"tr",
+				"traveled Let (mod.rs) : let traveled = PLAYER_SPEED * elapsed\\"
+			],
+			[
+				"el",
+				"elapsed FnArg (mod.rs) : elapsed"
+			],
+			[
+				"draw_",
+				"draw_rect   Function (render.rs) : pub fn draw_rect(&mut self, rect: Rect)              "
+			],
+			[
+				"Def",
+				"DefaultView           Struct (mod.rs) : pub struct DefaultView\\                "
+			],
+			[
+				"de",
+				"DefaultView"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib.rs",
+			"settings":
+			{
+				"buffer_size": 5641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.rs",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: up",
+		"selected_items":
+		[
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upge",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack n",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 387.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/Rust/Rust.sublime-settings",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/Rust.sublime-settings",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/RustAutoComplete.sublime-settings",
+		"/C/home/citylakarna.txt",
+		"/C/home/jesper/rust/SeriousOrganizer/Cargo.toml",
+		"/C/home/jesper/rust/SeriousOrganizer/src/lens.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/src/runner.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/src/main.rs",
+		"/C/home/jesper/rust/rust-virtual-listview/src/main.rs",
+		"/C/home/jesper/rust/rust-virtual-listview/Cargo.toml",
+		"/C/home/jesper/rust/SeriousOrganizer/macros",
+		"/C/home/jesper/rust/SeriousOrganizer/macros2",
+		"/C/home/jesper/rust/SeriousOrganizer/src/config.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/error.txt",
+		"/C/home/jesper/rust/SeriousOrganizer/test.bat",
+		"/C/home/jesper/rust/SeriousOrganizer/run.bat",
+		"/C/home/jesper/rust/SeriousOrganizer/src/my_model.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/src/lib.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/src/filter.rs",
+		"/C/home/jesper/rust/SeriousOrganizer/src/Filter.rs",
+		"/C/home/jesper/rust/test-gtk/src/main.rs",
+		"/C/home/jesper/rust/workspace/src/main.rs",
+		"/C/home/jesper/rust/workspace/src/part03.rs",
+		"/C/home/jesper/rust/workspace/src/part02.rs",
+		"/C/home/jesper/rust/workspace/src/part01.rs",
+		"/C/home/jesper/rust/workspace/src/part00.rs",
+		"/C/home/jesper/rust/test-gtk/Cargo.toml",
+		"/C/home/jesper/rust/lists/src/lib.rs",
+		"/C/home/jesper/rust/lists/src/main.rs",
+		"/C/home/jesper/rust/lists/src/first.rs",
+		"/C/home/jesper/rust/lists/src/second.rs",
+		"/C/home/jesper/rust/lists/src/third.rs",
+		"/C/home/jesper/rust/lists/src/fourth.rs",
+		"/C/home/jesper/rust/lists/src/fifth.rs",
+		"/C/home/jesper/rust/arcade-rs/src/views/mod.rs",
+		"/C/home/jesper/rust/arcade-rs/src/phi/events.rs",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/BeautifyRust/Default (Windows).sublime-keymap",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/BeautifyRust.sublime-settings",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/RustAutoComplete/Preferences.sublime-settings",
+		"/C/home/jesper/rust/arcade-rs/src/events.rs",
+		"/C/home/jesper/rust/listdir/src/main.rs",
+		"/C/home/jesper/rust/listdir/Cargo.toml",
+		"/C/home/jesper/rust/listdir/src/db.rs",
+		"/I/SteamLibrary/steamapps/common/MountBlade Warband/Modules/Viking Conquest/scripts.txt",
+		"/I/SteamLibrary/steamapps/common/MountBlade Warband/Modules/Native/scripts.txt",
+		"/I/Games/illusion/ItazuraK/ITAZURAK/ItazuraK_Data/StreamingAssets/DATA/data.fpk",
+		"/C/home/jesper/Projects/MovieWtf/MovieWtf/bin/Debug/MyFile.bin",
+		"/C/home/jesper/rust/listdir/src/lib.rs",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/home/jesper/rust/listdir/listdir.sublime-project",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/home/jesper/haskell/wutieated/src/Main.hs",
+		"/C/home/src/win32/Graphics/Win32/Misc.hsc",
+		"/C/home/src/win32/Graphics/Win32/Control.hsc",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/home/jesper/haskell/wutieated/wutieated.cabal",
+		"/C/home/jesper/haskell/wutieated/cabal.sandbox.config",
+		"/C/home/src/win32/Win32.cabal",
+		"/C/home/src/win32/Graphics/Win32/Window.hsc",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/SublimeHaskell/ModuleInspector.hs",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHaskell.sublime-settings",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/C/home/jesper/haskellprojs/FileOrganizer/src/Main.hs",
+		"/E/games/illusion/aa2/AA2TranslationLoader.exe",
+		"/C/home/src/fltkhs/Setup.hs",
+		"/E/games/Rougue/CataclysmDDA/data/options.txt",
+		"/C/shared.log",
+		"/C/globdata.ini",
+		"/C/mail.ini",
+		"/C/attach.ini",
+		"/C/Games/World_of_Tanks/MODS/SessionStatistic_detailed_loca_93/res_mods/0.9.3/scripts/client/mods/stat_config.json",
+		"/C/home/jesper/haskell/LearnXml/LearnXml.cabal",
+		"/C/home/jesper/haskell/LearnXml/src/Main.hs",
+		"/C/home/src/foo/Main.hs",
+		"/C/Boot/en-US/bootmgr.exe.mui",
+		"/C/home/jesper/haskell/KioskSimulator/KioskSimulator.cabal",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/Haskell-SublimeHaskell.sublime-settings",
+		"/C/home/jesper/haskell/test.hs",
+		"/C/home/jesper/thefubar/theFubar.cabal",
+		"/E/Projects/D/TestD/TestD/windef.d",
+		"/E/Projects/D/TestD/TestD/w32api.d",
+		"/C/home/jesper/haskell/KioskSimulator/src/Main.hs",
+		"/C/home/test.txt",
+		"/C/Users/serious/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test_",
+			"entry",
+			"onsiz",
+			"get_al",
+			"create_match_regex",
+			"getdata",
+			"to_string",
+			"forg",
+			"to_ws",
+			"ICC_LISTVIEW_CLASSES",
+			"InitCommonControlsEx",
+			"InitCommonControlsEx ",
+			"owner",
+			"STRING_CACHE",
+			"setitem",
+			"gdk",
+			" ;",
+			"Lens2",
+			"custom_list_new",
+			"mute",
+			"bool",
+			"custom_list_in",
+			"create_and_fill_model",
+			"created new",
+			":",
+			"(Option.*)",
+			"pub ",
+			"gtk_tree_model_get_type",
+			"pub ",
+			"->",
+			"gtk_tree_model_get_type",
+			"gobject_sys",
+			"(),\n",
+			"ptr",
+			"Hello",
+			"GType",
+			"GTypeInfo",
+			"::std::marker::",
+			"std::marker::",
+			"GtkListStore",
+			"TreeModelExt",
+			"treemode",
+			"togl",
+			"LVN_GETDISPINFO",
+			"WS_C",
+			"STRING_CACHE",
+			"LPITEM",
+			"LPITEMW",
+			"LPLVITEMW",
+			"LVITEMW",
+			"psTzext",
+			"LVN_GETDISPINFO",
+			"println",
+			"pretty_size",
+			"test_setup_list",
+			"LPCWSTR",
+			"INITCOMMONCONTROLSEX",
+			"::ptr",
+			"= ",
+			"GetWindowLongA",
+			"wstr",
+			"0",
+			"ix",
+			"\\\\",
+			"\\\\\\\\",
+			"\\",
+			"\\\\",
+			"glib",
+			"vec",
+			"mod",
+			"TreeSortable",
+			"Link::Empty",
+			"Some",
+			"david",
+			"euge",
+			"jagon",
+			"willy",
+			"hallo",
+			"zand",
+			"upton",
+			"umb",
+			"peav",
+			"lomax",
+			"locke",
+			"jack",
+			"locke",
+			"mouse",
+			"loma",
+			"quin",
+			"tim",
+			"richa",
+			"welle",
+			"wels",
+			"well",
+			"rodn",
+			"loui",
+			"lou",
+			"2170",
+			"1224979098644774914 ",
+			"}",
+			"Messageb",
+			"message",
+			"messeage",
+			"messe",
+			"messes",
+			"mess",
+			"messageb",
+			"\\t",
+			"\t",
+			"\\t",
+			"H.",
+			"hre",
+			"size",
+			"fullsc",
+			"Trur",
+			"case"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" = ",
+			"Some(   );",
+			"iface.",
+			".",
+			"",
+			"GtkTreeModel",
+			"",
+			"\\",
+			"/",
+			"None",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5336,
+								5336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3477.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "murmur-hash.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ca",
+				"Cargo.toml"
+			],
+			[
+				"c",
+				"Cargo.toml"
+			],
+			[
+				"m",
+				"src\\main.rs"
+			],
+			[
+				"li",
+				"listdir.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
